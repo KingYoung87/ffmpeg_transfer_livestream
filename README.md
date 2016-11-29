@@ -6,11 +6,13 @@
 # 安装步骤
 ## 1. 将ffmpeg-3.0.2.tar.bz2与yasm-1.2.0.tar.gz下载到目标服务器上；
 ## 2. 处理yasm
+```
 ### tar zxvf yasm-1.2.0.tar.gz
 ### cd yasm-1.2.0/
 ### ./configure
 ### make
 ### make install
+```
 ### yasm down!
 ## 3. 处理ffmpeg
 ### bzip2 -d ffmpeg-3.0.2.tar.bz2
