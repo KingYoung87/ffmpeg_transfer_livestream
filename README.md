@@ -1,6 +1,6 @@
 # 拉流中转服务器的搭建
 # 必要工具
-    linux os［4G内存，4核，10Mbps外网］
+    Linux OS［4G内存，4核，10Mbps外网］
     yasm-1.2.0.tar.gz
     ffmpeg-3.0.2.tar.bz2
 # 安装步骤
